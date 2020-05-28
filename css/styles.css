@@ -1,0 +1,39 @@
+h1 {
+  color :#66BFBF
+}
+h2{
+  color :#66BFBF
+}
+h3{
+  color :#66BFBF
+}
+table{
+  text-decoration-color: white;
+}
+p{
+  color:white;
+}
+ul{
+  color: white;
+}
+body{
+  background-image:url('../images/p1.jpg') ; background-size:no-repeat center center fixed ;
+  -webkit - background-size: cover;
+  -o - background-size: cover;
+  -moz - background-size: cover;
+  background-size:cover;
+
+}
+label{
+  color: white;
+}
+td{
+  color: orange;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: white;
+  border-width: 5px;
+  width : 10%;
+}
